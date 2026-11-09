@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-logs.txt
-pending.txt
-sessions.txt
-profits.txt
-.env
-venv/

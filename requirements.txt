@@ -1,4 +1,0 @@
-aiogram==3.15.0
-aiohttp
-telethon
-Pillow
